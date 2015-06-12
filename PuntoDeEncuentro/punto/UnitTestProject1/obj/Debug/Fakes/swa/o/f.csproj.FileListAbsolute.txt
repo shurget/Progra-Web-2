@@ -1,0 +1,7 @@
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\UnitTestProject1\obj\Debug\Fakes\swa\b\System.Web.Abstractions.4.0.0.0.Fakes.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\UnitTestProject1\obj\Debug\Fakes\swa\b\System.Web.Abstractions.4.0.0.0.Fakes.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\UnitTestProject1\obj\Debug\Fakes\swa\b\System.Web.Abstractions.4.0.0.0.Fakes.pdb
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\UnitTestProject1\obj\Debug\Fakes\swa\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\UnitTestProject1\obj\Debug\Fakes\swa\o\f.csprojResolveAssemblyReference.cache
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\UnitTestProject1\obj\Debug\Fakes\swa\o\System.Web.Abstractions.4.0.0.0.Fakes.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\UnitTestProject1\obj\Debug\Fakes\swa\o\System.Web.Abstractions.4.0.0.0.Fakes.pdb
